@@ -1,2 +1,2 @@
-# javascript-info
-Estudos em Javascript do site javascript.info
+# javascript-challenges
+Repo to store [jschallenger.com](https://jschallenger.com) exercises. Trying to sharpen my skills.
